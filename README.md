@@ -1,2 +1,2 @@
-# SocketProgrammingInJava
-This repository contains programs on Socket Programming in Java
+# NetworkProgrammingInJava
+This repository contains programs on Network Programming in Java
